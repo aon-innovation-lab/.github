@@ -81,7 +81,11 @@ pip install -r requirements.txt
 ├── LICENSE              # Licença do projeto
 
 ## Equipe
+
 Sheila Garcia – Diretora
-Valdir Filho – Diretora
+
+Valdir Filho – Diretor
+
 Fabrício França – Desenvolvedor
+
 Thierry Coutinho – Desenvolvedor
