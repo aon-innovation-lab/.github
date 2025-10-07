@@ -70,15 +70,18 @@ pip install -r requirements.txt
 
 ## Estrutura do Repositório
 
-├── docs/                # Documentação dos projetos
-├── src/                 # Códigos-fonte e protótipos
-├── notebooks/           # Jupyter Notebooks para análises
-├── templates/           # Modelos de documentos e propostas
-├── reports/             # Relatórios e dashboards
-├── .github/             # Workflows e configurações do GitHub
-├── README.md            # Este arquivo
-├── CONTRIBUTING.md      # Guia de contribuição
-├── LICENSE              # Licença do projeto
+```plaintext
+├── docs/             # Documentação dos projetos
+├── src/              # Códigos-fonte e protótipos
+├── notebooks/        # Jupyter Notebooks para análises
+├── templates/        # Modelos de documentos e propostas
+├── reports/          # Relatórios e dashboards
+├── .github/          # Workflows e configurações do GitHub
+├── README.md         # Este arquivo
+├── CONTRIBUTING.md   # Guia de contribuição
+├── LICENSE           # Licença do projeto
+
+```
 
 ## Equipe
 
