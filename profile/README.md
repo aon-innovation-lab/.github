@@ -1,6 +1,6 @@
 # AON Innovation Office
 
-Bem-vindo ao repositório oficial do **AON Innovation Office**! Este espaço foi criado para promover, compartilhar e gerenciar iniciativas de inovação dentro da AON, facilitando a colaboração entre equipes, o desenvolvimento de projetos inovadores e a transformação digital.
+Bem-vindo ao repositório oficial do **AON Innovation Office**. Este espaço foi criado para promover, compartilhar e gerenciar iniciativas de inovação dentro da AON, facilitando a colaboração entre equipes, o desenvolvimento de projetos inovadores e a transformação digital.
 
 ## Índice
 
@@ -84,8 +84,6 @@ pip install -r requirements.txt
 ```
 
 ## Equipe
-
-Sheila Garcia – Diretora
 
 Valdir Filho – Diretor
 
